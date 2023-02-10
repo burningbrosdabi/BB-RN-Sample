@@ -1,0 +1,964 @@
+{
+  "production": [
+    {
+      "display_name": "Áo",
+      "name": "top",
+      "productsubcategory_set": [
+        {
+          "display_name": "Áo cardigan",
+          "name": "cardigan",
+          "pk": 15,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo hoodie",
+          "name": "hoodie",
+          "pk": 8,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo dạ",
+          "name": "ao_da",
+          "pk": 78,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo len",
+          "name": "ao_len",
+          "pk": 52,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo sơ mi",
+          "name": "shirts",
+          "pk": 30,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo croptop",
+          "name": "croptop",
+          "pk": 7,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo ba lỗ",
+          "name": "tank_top",
+          "pk": 71,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo trễ vai",
+          "name": "off_shoulder",
+          "pk": 61,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo Babydoll",
+          "name": "babydoll",
+          "pk": 53,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo Polo",
+          "name": "polo_shirts",
+          "pk": 63,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo tay dài",
+          "name": "sweatshirts",
+          "pk": 19,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo thun",
+          "name": "tshirts",
+          "pk": 3,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo kiểu",
+          "name": "blouse_shirts",
+          "pk": 4,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo Gile",
+          "name": "gile",
+          "pk": 58,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo hai dây",
+          "name": "offshoulder_sleeveless",
+          "pk": 31,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo Sweater",
+          "name": "sweater",
+          "pk": 49,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Chân váy",
+      "name": "skirt",
+      "productsubcategory_set": [
+        {
+          "display_name": "Chân váy ngắn",
+          "name": "mini_skirt",
+          "pk": 20,
+          "is_active": true
+        },
+        {
+          "display_name": "Chân váy dài",
+          "name": "long_skirt",
+          "pk": 10,
+          "is_active": true
+        },
+        {
+          "display_name": "Chân váy lửng",
+          "name": "midi_skirt",
+          "pk": 5,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Quần",
+      "name": "pants",
+      "productsubcategory_set": [
+        {
+          "display_name": "Quần legging",
+          "name": "legging_pants",
+          "pk": 106,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần giả váy",
+          "name": "skort",
+          "pk": 86,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần kaki",
+          "name": "kaki_pants",
+          "pk": 97,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần Culottes",
+          "name": "culottes_pants",
+          "pk": 79,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần jogger",
+          "name": "jogger_pants",
+          "pk": 76,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần dài",
+          "name": "trousers",
+          "pk": 12,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần baggy",
+          "name": "baggy_pants",
+          "pk": 75,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần jeans",
+          "name": "jeans",
+          "pk": 11,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần short",
+          "name": "short",
+          "pk": 2,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Đầm",
+      "name": "dress",
+      "productsubcategory_set": [
+        {
+          "display_name": "Đầm mini",
+          "name": "mini_dress",
+          "pk": 62,
+          "is_active": true
+        },
+        {
+          "display_name": "Đầm kiểu",
+          "name": "dam_kieu",
+          "pk": 69,
+          "is_active": true
+        },
+        {
+          "display_name": "Đầm body",
+          "name": "body_dress",
+          "pk": 6,
+          "is_active": true
+        },
+        {
+          "display_name": "Đầm suông",
+          "name": "flared_dress",
+          "pk": 1,
+          "is_active": true
+        },
+        {
+          "display_name": "Đầm babydoll",
+          "name": "babydoll_dress",
+          "pk": 72,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Set",
+      "name": "set",
+      "productsubcategory_set": [
+        {
+          "display_name": "Set",
+          "name": "set",
+          "pk": 54,
+          "is_active": true
+        },
+        {
+          "display_name": "Vest",
+          "name": "vest_set",
+          "pk": 73,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo dài",
+          "name": "ao_dai",
+          "pk": 89,
+          "is_active": true
+        },
+        {
+          "display_name": "Jump",
+          "name": "jumpsuit",
+          "pk": 36,
+          "is_active": true
+        },
+        {
+          "display_name": "Bodysuit",
+          "name": "bodysuit",
+          "pk": 70,
+          "is_active": true
+        },
+        {
+          "display_name": "Yếm",
+          "name": "overalls",
+          "pk": 35,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Áo khoác",
+      "name": "outwear",
+      "productsubcategory_set": [
+        {
+          "display_name": "Áo khoác kaki",
+          "name": "kaki_jacket",
+          "pk": 91,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo lạnh",
+          "name": "coat",
+          "pk": 37,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác Mangto",
+          "name": "mangto_jacket",
+          "pk": 100,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác Tweed",
+          "name": "tweed_jacket",
+          "pk": 99,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác nhung",
+          "name": "velvet_jacket",
+          "pk": 95,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo chống nắng",
+          "name": "jacket_protection",
+          "pk": 38,
+          "is_active": false
+        },
+        {
+          "display_name": "Áo khoác dù",
+          "name": "umbrella_jacket",
+          "pk": 94,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác Bomber",
+          "name": "bomber_jacket",
+          "pk": 90,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác jean",
+          "name": "denim_jacket",
+          "pk": 74,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác len",
+          "name": "sweater_jacket",
+          "pk": 101,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác",
+          "name": "jacket",
+          "pk": 96,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác dạ",
+          "name": "aokhoac_da",
+          "pk": 102,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác da",
+          "name": "leather_jacket",
+          "pk": 84,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác nỉ",
+          "name": "fleece_jacket",
+          "pk": 13,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác vest",
+          "name": "blazer",
+          "pk": 14,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Trang sức",
+      "name": "jewelry",
+      "productsubcategory_set": [
+        {
+          "display_name": "Hoa tai",
+          "name": "earring",
+          "pk": 26,
+          "is_active": true
+        },
+        {
+          "display_name": "Lắc chân",
+          "name": "Lắc chân",
+          "pk": 80,
+          "is_active": false
+        },
+        {
+          "display_name": "Sét trang sức",
+          "name": "jewelry_set",
+          "pk": 24,
+          "is_active": true
+        },
+        {
+          "display_name": "Nhẫn",
+          "name": "ring",
+          "pk": 27,
+          "is_active": true
+        },
+        {
+          "display_name": "Vòng đeo tay",
+          "name": "bracelet",
+          "pk": 25,
+          "is_active": true
+        },
+        {
+          "display_name": "Dây chuyền",
+          "name": "neckless",
+          "pk": 23,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Túi xách",
+      "name": "bag",
+      "productsubcategory_set": [
+        {
+          "display_name": "Túi xách",
+          "name": "Túi xách",
+          "pk": 77,
+          "is_active": false
+        },
+        {
+          "display_name": "Tote",
+          "name": "tote",
+          "pk": 57,
+          "is_active": true
+        },
+        {
+          "display_name": "Túi kẹp nách",
+          "name": "mini_pouch",
+          "pk": 45,
+          "is_active": true
+        },
+        {
+          "display_name": "Túi đeo chéo",
+          "name": "crossbag",
+          "pk": 32,
+          "is_active": true
+        },
+        {
+          "display_name": "Túi bao tử",
+          "name": "stomach_bag",
+          "pk": 59,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Giày dép",
+      "name": "shoes",
+      "productsubcategory_set": [
+        {
+          "display_name": "Giày cao gót",
+          "name": "hills",
+          "pk": 28,
+          "is_active": true
+        },
+        {
+          "display_name": "Dép",
+          "name": "slipper",
+          "pk": 68,
+          "is_active": true
+        },
+        {
+          "display_name": "Giày sneakers",
+          "name": "sneakers",
+          "pk": 44,
+          "is_active": true
+        },
+        {
+          "display_name": "Giày sục",
+          "name": "flip_flops",
+          "pk": 107,
+          "is_active": true
+        },
+        {
+          "display_name": "Giày đế bằng",
+          "name": "flatshoes",
+          "pk": 47,
+          "is_active": true
+        },
+        {
+          "display_name": "Giày sandals",
+          "name": "sandals",
+          "pk": 41,
+          "is_active": true
+        },
+        {
+          "display_name": "Giày boots",
+          "name": "boots",
+          "pk": 39,
+          "is_active": true
+        },
+        {
+          "display_name": "Giày lười",
+          "name": "giay_luoi",
+          "pk": 55,
+          "is_active": true
+        },
+        {
+          "display_name": "Giày búp bê",
+          "name": "doll_shoes",
+          "pk": 60,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Mũ",
+      "name": "cap",
+      "productsubcategory_set": [
+        {
+          "display_name": "Mũ len",
+          "name": "beanie",
+          "pk": 66,
+          "is_active": true
+        },
+        {
+          "display_name": "Mũ lưỡi trai",
+          "name": "cap",
+          "pk": 64,
+          "is_active": true
+        },
+        {
+          "display_name": "Mũ nồi",
+          "name": "beret",
+          "pk": 65,
+          "is_active": true
+        },
+        {
+          "display_name": "Mũ tròn",
+          "name": "buket_hat",
+          "pk": 67,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Đồ ngủ",
+      "name": "sleepwear",
+      "productsubcategory_set": [
+        {
+          "display_name": "Váy ngủ",
+          "name": "sleeping_dress",
+          "pk": 108,
+          "is_active": true
+        },
+        {
+          "display_name": "Pijama",
+          "name": "pijama",
+          "pk": 56,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần ngủ",
+          "name": "sleeping_pants",
+          "pk": 109,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Đồ lót",
+      "name": "underwear",
+      "productsubcategory_set": [
+        {
+          "display_name": "Bra",
+          "name": "bra",
+          "pk": 93,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần lót",
+          "name": "underwear",
+          "pk": 40,
+          "is_active": true
+        },
+        {
+          "display_name": "Set",
+          "name": "underwear_set",
+          "pk": 111,
+          "is_active": true
+        },
+        {
+          "display_name": "Đồ bơi",
+          "name": "swimwear",
+          "pk": 43,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo ngực",
+          "name": "underwear",
+          "pk": 110,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Phụ kiện",
+      "name": "acc",
+      "productsubcategory_set": [
+        {
+          "display_name": "Ví cầm tay",
+          "name": "wallet",
+          "pk": 51,
+          "is_active": true
+        },
+        {
+          "display_name": "Phụ kiện tóc",
+          "name": "hairpin",
+          "pk": 22,
+          "is_active": true
+        },
+        {
+          "display_name": "Thắt lưng",
+          "name": "belt",
+          "pk": 42,
+          "is_active": true
+        },
+        {
+          "display_name": "Mắt kính",
+          "name": "glasses",
+          "pk": 21,
+          "is_active": true
+        },
+        {
+          "display_name": "Vớ",
+          "name": "socks",
+          "pk": 33,
+          "is_active": true
+        },
+        {
+          "display_name": "Ba lô",
+          "name": "backpack",
+          "pk": 29,
+          "is_active": true
+        }
+      ]
+    }
+  ],
+  "staging": [
+    {
+      "display_name": "Áo",
+      "name": "top",
+      "productsubcategory_set": [
+        {
+          "display_name": "Áo hai dây",
+          "name": "offshoulder_sleeveless",
+          "pk": 20,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo sweater",
+          "name": "sweater",
+          "pk": 19,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo babydoll",
+          "name": "babydoll",
+          "pk": 18,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo trễ vai",
+          "name": "off_shoulder",
+          "pk": 16,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo polo",
+          "name": "polo_shirts",
+          "pk": 15,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo ba lỗ",
+          "name": "tank_top",
+          "pk": 14,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo gile",
+          "name": "shoes",
+          "pk": 17,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo thun",
+          "name": "tshirts",
+          "pk": 27,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo kiểu",
+          "name": "blouse_shirts",
+          "pk": 26,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo croptop",
+          "name": "croptop",
+          "pk": 25,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo hoodie",
+          "name": "hoodie",
+          "pk": 24,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo cardigan",
+          "name": "cardigan",
+          "pk": 23,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo tay dài",
+          "name": "sweatshirts",
+          "pk": 22,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo sơ mi",
+          "name": "shirts",
+          "pk": 21,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Chân váy",
+      "name": "skirt",
+      "productsubcategory_set": [
+        {
+          "display_name": "Chân váy lửng",
+          "name": "midi_skirt",
+          "pk": 30,
+          "is_active": true
+        },
+        {
+          "display_name": "Chân váy dài",
+          "name": "long_skirt",
+          "pk": 29,
+          "is_active": true
+        },
+        {
+          "display_name": "Chân váy ngắn",
+          "name": "mini_skirt",
+          "pk": 28,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Quần",
+      "name": "pants",
+      "productsubcategory_set": [
+        {
+          "display_name": "Quần dài",
+          "name": "trousers",
+          "pk": 36,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần baggy",
+          "name": "baggy_pants",
+          "pk": 35,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần jogger",
+          "name": "jogger_pants",
+          "pk": 34,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần kaki",
+          "name": "kaki_pants",
+          "pk": 32,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần giả váy",
+          "name": "skort",
+          "pk": 31,
+          "is_active": true
+        },
+        {
+          "display_name": "Quần culottes",
+          "name": "culottes_pants",
+          "pk": 33,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Đầm",
+      "name": "dress",
+      "productsubcategory_set": [
+        {
+          "display_name": "Đầm body",
+          "name": "body_dress",
+          "pk": 38,
+          "is_active": true
+        },
+        {
+          "display_name": "Đầm suông",
+          "name": "flared_dress",
+          "pk": 37,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Set",
+      "name": "set",
+      "productsubcategory_set": [
+        {
+          "display_name": "Yếm",
+          "name": "overalls",
+          "pk": 40,
+          "is_active": true
+        },
+        {
+          "display_name": "Jump",
+          "name": "jumpsuit",
+          "pk": 39,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Áo khoác",
+      "name": "outwear",
+      "productsubcategory_set": [
+        {
+          "display_name": "Áo khoác jean",
+          "name": "denim_jacket",
+          "pk": 46,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác da",
+          "name": "leather_jacket",
+          "pk": 45,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác Bomber",
+          "name": "bomber_jacket",
+          "pk": 44,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác dù",
+          "name": "umbrella_jacket",
+          "pk": 43,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác Mangto",
+          "name": "mangto_jacket",
+          "pk": 42,
+          "is_active": true
+        },
+        {
+          "display_name": "Áo khoác len",
+          "name": "sweater_jacket",
+          "pk": 41,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Trang sức",
+      "name": "jewelry",
+      "productsubcategory_set": [
+        {
+          "display_name": "Dây chuyền",
+          "name": "neckless",
+          "pk": 48,
+          "is_active": true
+        },
+        {
+          "display_name": "Vòng đeo tay",
+          "name": "bracelet",
+          "pk": 47,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Túi xách",
+      "name": "bag",
+      "productsubcategory_set": [
+        {
+          "display_name": "Túi kẹp nách",
+          "name": "mini_pouch",
+          "pk": 49,
+          "is_active": true
+        },
+        {
+          "display_name": "Túi đeo chéo",
+          "name": "bag",
+          "pk": 50,
+          "is_active": true
+        },
+        {
+          "display_name": "Ba lô",
+          "name": "backpack",
+          "pk": 51,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Giày dép",
+      "name": "shoes",
+      "productsubcategory_set": [
+        {
+          "display_name": "Need to tranlate",
+          "name": "This is test sub category",
+          "pk": 55,
+          "is_active": true
+        },
+        {
+          "display_name": "Giày sneakers",
+          "name": "sneakers",
+          "pk": 52,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Nón",
+      "name": "cap",
+      "productsubcategory_set": []
+    },
+    {
+      "display_name": "Đồ ngủ",
+      "name": "sleepwear",
+      "productsubcategory_set": [
+        {
+          "display_name": "asdnfkldsaf",
+          "name": "asdnfkldsaf",
+          "pk": 54,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "display_name": "Đồ lót",
+      "name": "underwear",
+      "productsubcategory_set": []
+    },
+    {
+      "display_name": "Phụ kiện",
+      "name": "acc",
+      "productsubcategory_set": [
+        {
+          "display_name": "Mắt kính",
+          "name": "glasses",
+          "pk": 53,
+          "is_active": true
+        }
+      ]
+    }
+  ]
+}
